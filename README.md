@@ -26,19 +26,14 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I am currently working on ** React, HTML, CSS, JavaScript, TypeScript **.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I am currently learning ** Advanced JavaScript, Frontend, Advanced Frontend, Backend, Advanced Backend + NoSQL, **.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🖥️ I have a great interest in creating Web Pages and applications.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 Feel free to contact me ** devnathee@gmail.com **.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
 
