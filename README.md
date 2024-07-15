@@ -50,7 +50,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect me 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect Me 🤝</h2></summary>
   </ul>
 </div>
 
