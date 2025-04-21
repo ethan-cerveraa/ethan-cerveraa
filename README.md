@@ -18,10 +18,6 @@
 
 
 <!--Intro start-->
-- 🔭 I am currently working on ** React, HTML, CSS, JavaScript, TypeScript **.
-
-- 🌱 I am currently learning ** Advanced JavaScript, Frontend, Advanced Frontend, Backend, Advanced Backend + NoSQL **.
-
 - 🖥️ I have a great interest in creating Web Pages and applications.
 
 - 📫 Feel free to contact me ** devnathee@gmail.com **.
