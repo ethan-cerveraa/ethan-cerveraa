@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🖥️ I have a great interest in creating Web Pages and applications.
 
-- 📫 Feel free to contact me **devnathee@gmail.com **.
+- 📫 Feel free to contact me ** devnathee@gmail.com **.
 
 <!--Intro end-->
 
