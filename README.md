@@ -5,22 +5,22 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ethan Cervera</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Ethan Cervera</h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Creativity is essential in software development, even when navigating through the sometimes confusing terrain of programming.</h2></summary>
+    <summary><h2 style="display: inline-block">Hola, soy Ethan Cervera.Soy un Jr Software Engineer con 4 años de experiencia. Me gusta construir sitios y aplicaciones</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🖥️ I have a great interest in creating Web Pages and applications.
+- 🖥️ Tengo un gran interés en la creación de Páginas Web y aplicaciones.
 
-- 📫 Feel free to contact me ** devnathee@gmail.com **.
+- 📫 No dude en ponerse en contacto conmigo ** devnathee@gmail.com **.
 
 <!--Intro end-->
 
@@ -31,7 +31,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
