@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Hola, soy Ethan Cervera. Soy un Jr Software Engineer con 4 años de experiencia. Me gusta construir sitios y aplicaciones</h2></summary>
+    <summary><h2 style="display: inline-block">Hola, soy Ethan Cervera. Un Jr Software Engineer con 4 años de experiencia. Me gusta construir sitios y aplicaciones</h2></summary>
   </ul>
 </div>
 
