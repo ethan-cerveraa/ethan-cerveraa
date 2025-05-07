@@ -17,17 +17,20 @@
   </ul>
 </div>
 
-
+<h2>Sobre Mi. 🔋</h2>
 <!--Intro start-->
-- 🖥️ Tengo un gran interés en la creación de Páginas Web y aplicaciones.
 
-- 📫 No dude en ponerse en contacto conmigo ** devnathee@gmail.com **.
-
-<!--Intro end-->
+<p align="left">
+  💻 Unos cuántos años de experiencia en el proceso de desarrollo de software.
+  
+  🖥️ Tengo un gran interés en la creación de Páginas Web y aplicaciones.
+  
+  📝 roles en el ámbito: desarrollador... líder... emprendedor... 
+  
+  📫 No dude en ponerse en contacto conmigo ** devnathee@gmail.com **.
+</p>
 
 </p>        
-<!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
