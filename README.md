@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<h1 align="center">Hola Soy Ethan Cervera 👋 / Jr Software Engineer ✨ </h1> 
+<h1 align="center">Hola Soy Ethan Cervera. 👋 / Jr Software Engineer ✨ </h1> 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ethan-cervera-2a4495287/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
