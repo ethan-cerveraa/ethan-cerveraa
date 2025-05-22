@@ -27,7 +27,7 @@
   
   📝 roles en el ámbito: desarrollador... líder... emprendedor... 
   
-  📫 No dude en ponerse en contacto conmigo * devnathee@gmail.com *.
+  📫 No dude en ponerse en contacto conmigo  devnathee@gmail.com.
 </p>
 
 </p>        
