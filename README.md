@@ -35,7 +35,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías Que conozco 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
